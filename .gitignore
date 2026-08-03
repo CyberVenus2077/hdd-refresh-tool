@@ -1,0 +1,8 @@
+# runtime artifacts
+refresh_state_*.txt
+refresh_log_*.txt
+refresh_monitor_*.txt
+*.log
+
+# temp
+__refresh_tmp__*
